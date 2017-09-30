@@ -1,0 +1,54 @@
+#profile_card {
+	/*border-radius: 50%;*/
+	height: auto;
+	width: ;
+	text-align: center;	
+	/*border: 3px solid #66ffcc;*/
+}
+
+#cruise {
+	max-width: 100%;
+  height: auto;
+	text-align: center;
+}
+
+#snowboard {
+	/*height: 70px;
+	max-width: 90%;*/
+
+}
+
+#shay_and_ty {
+	height: auto;
+	text-align: center;
+
+}
+	
+.parallax-container {
+    height: 600px;
+
+}
+#icon {
+	border-radius: 50%;
+	height: 200px;
+	width: 200px;
+	border: 3px solid #66ffcc
+
+}
+.card-reveal {
+	background-color:#b3b3b3;
+}
+
+.nav-extended {
+	height: 80px;
+	background-color: #404040;	
+	color: #b3b3b3;
+}
+
+#main-content{
+	background-color: #404040;
+
+}
+#footer {
+	background-color: #404040
+}
